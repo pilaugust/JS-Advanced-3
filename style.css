@@ -1,0 +1,15 @@
+.drum{
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    width: 50px;
+}
